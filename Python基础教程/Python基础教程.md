@@ -12,7 +12,7 @@
 
 * [Python简介](Python简介/Python简介.md)
 * [Python解释器](Python解释器/Python解释器.md)
-* [Python环境搭建]()
+* [Python环境搭建](Python环境搭建/Python环境搭建.md)
   * [pyenv安装和使用](Python环境搭建/pyenv安装和使用.md)
   * [pip安装和使用](Python环境搭建/pip安装和使用.md)
   * [pipenv安装和使用](Python环境搭建/pipenv安装和使用.md)
